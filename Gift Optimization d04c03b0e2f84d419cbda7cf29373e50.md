@@ -134,8 +134,6 @@ I wanted to explore some of the possibilities for illustrating this data. After 
 
 
 After a few iterations and me playing around with Dash, this is the final product:
-
-![Untitled 6](https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/8e995b82-8c11-4f8a-b882-21af67893643)
-
+<img width="813" alt="image" src="https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/cb299506-8640-4a51-b3e6-fa0448a55b38">
 
 There are many ways I could change this dashboard to make it look better, but I am more interested in the analytics side, so I stopped here and moved on to the next analytic part I was interested in.
