@@ -78,7 +78,7 @@ Using the matplotlib package, I plotted the top crops based solely on profit, bo
 
 ![Untitled](Crop%20Profitability%20Analysis%20e509af510d39441fb26b132f3585aee9/Untitled%201.png)
 
-![Untitled](Crop%20Profitability%20Analysis%20e509af510d39441fb26b132f3585aee9/Untitled%202.png)
+![Untitled](Untitled 1.png)
 
 ### Recommendations
 
