@@ -58,6 +58,6 @@ All of the information I have found and will use in this project will be linked 
 
 [Project Wiki](Stardew%20Valley%20Project%2067ebcc0069a342b8b3e910d3b748f493/Project%20Wiki%200749cf19a2334596b0cd0f0e4d032b3c.csv)
 
-[Crop Profitability Analysis](Crop Profitability Analysis e509af510d39441fb26b132f3585aee9.md)
+[Crop Profitability Analysis](https://github.com/daniellemontalvo/Stardew-Valley-Optimization/blob/main/Crop%20Profitability%20Analysis%20e509af510d39441fb26b132f3585aee9.md)
 
-[Gift Optimization](Gift Optimization d04c03b0e2f84d419cbda7cf29373e50.md)
+[Gift Optimization](https://github.com/daniellemontalvo/Stardew-Valley-Optimization/blob/main/Gift%20Optimization%20d04c03b0e2f84d419cbda7cf29373e50.md)
