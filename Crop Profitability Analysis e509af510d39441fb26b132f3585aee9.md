@@ -74,11 +74,13 @@ seasons = seasons.drop([0, 1, 2, 15, 16, 17, 28, 29, 30, 43, 44])
 
 Using the matplotlib package, I plotted the top crops based solely on profit, both grouped by season and overall. I also added a Scatterplot of the seed price vs profit. From the visualizations we can see how fall and spring have the most profitable crops.  Sweet Gem Berry skews the data significantly, but this tells us that it is a very powerful crop to have in the fall.
 
-![Untitled](Crop%20Profitability%20Analysis%20e509af510d39441fb26b132f3585aee9/Untitled.png)
 
-![Untitled](Crop%20Profitability%20Analysis%20e509af510d39441fb26b132f3585aee9/Untitled%201.png)
+![Untitled](https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/01f5eb51-0589-4598-bc37-bf207a8e2b5a)
 
-![Untitled](Untitled 1.png)
+![Untitled 2](https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/61c3a8c0-8449-40a1-a614-e916eff3ed21)
+
+![Untitled 1](https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/f920d488-d700-4de2-91dd-869d199a1f66)
+
 
 ### Recommendations
 
