@@ -1,7 +1,7 @@
 # Stardew Valley Project
 
 <aside>
-💡 **This project came from the desire to make the most out of everyday on the Stardew Valley game while playing on my switch during the time I was recovering from surgery.**
+💡 This project came from the desire to make the most out of everyday on the Stardew Valley game while playing on my switch during the time I was recovering from surgery.
 
 </aside>
 
