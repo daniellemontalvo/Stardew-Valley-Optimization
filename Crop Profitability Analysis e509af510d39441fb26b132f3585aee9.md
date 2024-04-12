@@ -115,7 +115,7 @@ all_recommendations_df = pd.concat(recommendations_dfs, ignore_index=True)
 print("Recommendations for Planting:")
 all_recommendations_df
 ```
+<img width="349" alt="Untitled 3" src="https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/315859f5-a593-4201-9449-343866916292">
 
-![Untitled](Crop%20Profitability%20Analysis%20e509af510d39441fb26b132f3585aee9/Untitled%203.png)
 
 From this output we can see that the list changed a little when compared to the plots we did merely based on profit.
