@@ -73,17 +73,18 @@ plt.tight_layout()
 plt.show(
 ```
 
-![Untitled](Gift%20Optimization%20d04c03b0e2f84d419cbda7cf29373e50/Untitled.png)
 
-![Untitled](Gift%20Optimization%20d04c03b0e2f84d419cbda7cf29373e50/Untitled%201.png)
-
-![Untitled](Gift%20Optimization%20d04c03b0e2f84d419cbda7cf29373e50/Untitled%202.png)
 
 ## Optimizing gifts for quick friendships
 
 Since my interest is to be able to form relationships more efficiently, I focused on the loved items in the game. Since there are many NPCs that love the same items, I figured a way to group them so that I have to focus on fewer items to obtain and be able to gift them in bulk.
 
 For this, I iterated over the list of each most liked item, and assigned each NPC to the most popular item they love. For example, if Clint likes Amethyst and Carrots, Amethyst is liked by other 3 NPCs while carrots are only loved by Clint, so Clint is assigned to the Amethyst group and no other group. 
+
+![Untitled](https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/815118d8-5d39-44c9-9dac-8cfd5f3e8007)
+![Untitled 2](https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/21a92510-17f2-49a3-9695-f137ab719101)
+![Untitled 1](https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/aea276fa-b457-44f7-9b03-6548bc1257ef)
+
 
 ```python
 
@@ -111,7 +112,8 @@ loved_items = loved_items[loved_items['Names'].str.strip().astype(bool)]
 loved_items
 ```
 
-![Untitled](Gift%20Optimization%20d04c03b0e2f84d419cbda7cf29373e50/Untitled%203.png)
+<img width="541" alt="Untitled 3" src="https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/654c980c-118f-4ac2-aad0-59ea8f22b54f">
+
 
 From this list, we can see that most NPCs fall into the Diamond group (because who doesn’t love diamonds). But also, there are many NPCs that are alone in their group. Which is why I thought about making  big group that will belong to the ‘Golden Pumpkin’ group since it is a Universal loved item. However, this was not the best way to optimize it, since the odds of getting Golden Pumpkins in the game are slim. 
 
@@ -121,16 +123,19 @@ After the necessary adjustments this is what we get:
 
  
 
-![Untitled](Gift%20Optimization%20d04c03b0e2f84d419cbda7cf29373e50/Untitled%204.png)
+<img width="888" alt="Untitled 4" src="https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/c2bc6ca9-383a-4129-be9e-5eb134241439">
+
 
 # Dash Display
 
 I wanted to explore some of the possibilities for illustrating this data. After some conversations with chat GPT I decided to make a Dash app that would display the item names and in a pop up say the list of NPCs who like said item. I am still iterating over this dashboard but this is the first draft:
 
-![Untitled](Gift%20Optimization%20d04c03b0e2f84d419cbda7cf29373e50/Untitled%205.png)
+<img width="1436" alt="Untitled 5" src="https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/5c0dc685-0e4e-4e38-a521-a54ef0786b7e">
+
 
 After a few iterations and me playing around with Dash, this is the final product:
 
-![Untitled](Gift%20Optimization%20d04c03b0e2f84d419cbda7cf29373e50/Untitled%206.png)
+![Untitled 6](https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/8e995b82-8c11-4f8a-b882-21af67893643)
+
 
 There are many ways I could change this dashboard to make it look better, but I am more interested in the analytics side, so I stopped here and moved on to the next analytic part I was interested in.
