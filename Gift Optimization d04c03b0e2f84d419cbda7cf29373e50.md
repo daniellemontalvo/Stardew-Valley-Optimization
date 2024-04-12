@@ -121,9 +121,7 @@ From the Universal loves list, I found that ‘Rabbits Foot’ is the easiest on
 
 After the necessary adjustments this is what we get:
 
- 
-
-<img width="888" alt="Untitled 4" src="https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/c2bc6ca9-383a-4129-be9e-5eb134241439">
+ <img width="813" alt="image" src="https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/cb299506-8640-4a51-b3e6-fa0448a55b38">
 
 
 # Dash Display
@@ -134,6 +132,8 @@ I wanted to explore some of the possibilities for illustrating this data. After 
 
 
 After a few iterations and me playing around with Dash, this is the final product:
-<img width="813" alt="image" src="https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/cb299506-8640-4a51-b3e6-fa0448a55b38">
+
+![Untitled 6](https://github.com/daniellemontalvo/Stardew-Valley-Optimization/assets/81642044/d5a2405d-403d-42e8-808b-ce83de1f2388)
+
 
 There are many ways I could change this dashboard to make it look better, but I am more interested in the analytics side, so I stopped here and moved on to the next analytic part I was interested in.
