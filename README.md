@@ -54,10 +54,10 @@ So far, the tools and analysis that I have in mind to conduct are the following:
 - **Community Center Bundles Optimization**: Develop a strategy for completing Community Center bundles efficiently, considering item availability, seasonality, and bundle rewards.
 - **Task Scheduling**: Develop algorithms for optimizing daily task schedules, considering factors like travel time between locations, task dependencies, and time-sensitive events.
 
-All of the information I have found and will use in this project will be linked in my [Project Wiki.](Stardew%20Valley%20Project%2067ebcc0069a342b8b3e910d3b748f493/Project%20Wiki%200749cf19a2334596b0cd0f0e4d032b3c.md)
+All of the information I have found and will use in this project will be linked in the project Wiki.
 
 [Project Wiki](Stardew%20Valley%20Project%2067ebcc0069a342b8b3e910d3b748f493/Project%20Wiki%200749cf19a2334596b0cd0f0e4d032b3c.csv)
 
-[Crop Profitability Analysis](Stardew%20Valley%20Project%2067ebcc0069a342b8b3e910d3b748f493/Crop%20Profitability%20Analysis%20e509af510d39441fb26b132f3585aee9.md)
+[Crop Profitability Analysis](Crop Profitability Analysis e509af510d39441fb26b132f3585aee9.md)
 
-[Gift Optimization](Stardew%20Valley%20Project%2067ebcc0069a342b8b3e910d3b748f493/Gift%20Optimization%20d04c03b0e2f84d419cbda7cf29373e50.md)
+[Gift Optimization](Gift Optimization d04c03b0e2f84d419cbda7cf29373e50.md)
